@@ -9,13 +9,13 @@ https://snap.stanford.edu/data/ego-Facebook.html <br>
 
 ## use methods forAnalysis
 
-1 - betweenness Centrality <br>
+1- Betweenness Centrality <br>
 2- Degree Centrality <br>
-3 - Closeness Centrality <br>
-4 - Eeigenvector Centrality <br>
-5 - Find shortest path <br>
-6 - Find all neighbors the nodes <br>
-7 - Degree Grapg <br>
-8 - K-clique <br>
-9 - K-core <br>
-10 - pagerank <br>
+3- Closeness Centrality <br>
+4- Eeigenvector Centrality <br>
+5- Find shortest path <br>
+6- Find all neighbors the nodes <br>
+7- Degree Grapg <br>
+8- K-clique <br>
+9- K-core <br>
+10- pagerank <br>
