@@ -6,6 +6,8 @@ Networks today are part of our everyday life. Let's learn how to visualize and u
 ## Dataset information
 This dataset consists of 'circles' (or 'friends lists') from Facebook. Facebook data was collected from survey participants using this Facebook app. The dataset includes node features (profiles), circles, and ego networks.<br>
 https://snap.stanford.edu/data/ego-Facebook.html <br>
+![betweenness_centrality](https://user-images.githubusercontent.com/25765644/141525940-b0f12e32-cff6-4d30-bd0f-45fba8d5091d.png)
+
 
 ## use methods forAnalysis
 
