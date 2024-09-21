@@ -18,15 +18,18 @@ The dataset you are referring to is the Facebook Social Circles Dataset, which i
     Diameter: 8 (the longest shortest path between any two nodes)
     Effective Diameter: 4.7 (90th percentile of the shortest path lengths between nodes)
     
-This dataset provides a structure for understanding social network analysis and clustering in social media platforms, even though sensitive user information (like political affiliation) has been anonymized. Other datasets in this collection include data from Google+ and Twitter, offering a broad range of comparisons for social network structures.
 
 https://snap.stanford.edu/data/ego-Facebook.html <br>
 ![betweenness_centrality](https://user-images.githubusercontent.com/25765644/141525940-b0f12e32-cff6-4d30-bd0f-45fba8d5091d.png)
 
 
-## use methods forAnalysis
+## 
 
 1- Betweenness Centrality <br>
+Betweenness centrality is defined as a measure of how often a node lies on the shortest path between all pairs of nodes in a network
+```
+python scripts/betweenness_centrality.py
+```
 2- Degree Centrality <br>
 3- Closeness Centrality <br>
 4- Eeigenvector Centrality <br>
