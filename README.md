@@ -9,7 +9,8 @@ The dataset you are referring to is the Facebook Social Circles Dataset, which i
      - Node Features: Information about individual users, although anonymized.
      - Circles: Groups of friends, similar to how Facebook allows users to organize friends into different lists.
      - Ego Networks: Networks centered around a specific user (the ego), including that user's friends and the connections between them.
-<b>Key Statistics<b>:
+
+**Key Statistics:**
 
     Nodes: 4039 (representing users)
     Edges: 88234 (representing friendships)
@@ -22,12 +23,12 @@ The dataset you are referring to is the Facebook Social Circles Dataset, which i
 https://snap.stanford.edu/data/ego-Facebook.html <br>
 ![betweenness_centrality](https://user-images.githubusercontent.com/25765644/141525940-b0f12e32-cff6-4d30-bd0f-45fba8d5091d.png)
 
+## Some Social Network Analysis Methods and Examples
 
-## 
-
-1- Betweenness Centrality <br>
+**1- Betweenness Centrality**<br>
 Betweenness centrality is defined as a measure of how often a node lies on the shortest path between all pairs of nodes in a network
-```
+
+```python
 python scripts/betweenness_centrality.py
 ```
 2- Degree Centrality <br>
