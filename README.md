@@ -31,7 +31,11 @@ Betweenness centrality is defined as a measure of how often a node lies on the s
 ```python
 python scripts/betweenness_centrality.py
 ```
-2- Degree Centrality <br>
+**2- Degree Centrality** <br>
+```python
+python scripts/graph_degree_centrality.py
+```
+
 3- Closeness Centrality <br>
 4- Eeigenvector Centrality <br>
 5- Find shortest path <br>
